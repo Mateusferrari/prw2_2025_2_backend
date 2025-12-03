@@ -1,0 +1,14 @@
+{
+  "name": "avaliacao3_prw2_alunos",
+  "version": "1.0.0",
+  "main": "index.js",
+   "type": "module",
+  
+  "scripts": {
+     "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
